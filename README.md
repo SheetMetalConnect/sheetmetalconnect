@@ -36,7 +36,6 @@ I run UNS workshops, build MES platforms, and wire factory machines to modern da
 | Resource | |
 |----------|---|
 | [**UNS Cursus**](https://github.com/SheetMetalConnect/UNS-Cursus) | Full course material for Unified Namespace workshops (Dutch) |
-| [**API Workshop**](https://github.com/SheetMetalConnect/api-workshop) | REST API + MCP/Agentic AI workshop for 4.0 Solutions |
 | [**IoT-UMH-Homelab**](https://github.com/SheetMetalConnect/IoT-UMH-Homelab) | Learn industrial IoT with UMH architecture on real hardware |
 
 ---
