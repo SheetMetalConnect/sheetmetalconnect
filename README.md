@@ -21,15 +21,6 @@ I run UNS workshops, build MES platforms, and wire factory machines to modern da
 | [**Metaal Kompas**](https://github.com/SheetMetalConnect/Metaal-Kompas) | Open-source knowledge base for digital transformation in metalworking (Dutch) |
 | [**GenCAD**](https://github.com/SheetMetalConnect/GenCAD) | Generative CAD tooling for manufacturing |
 
-### Coming Soon
-
-| Project | Status |
-|---------|--------|
-| 🤖 **UMH Agents** | AI agents that operate on your Unified Namespace — monitoring, anomaly detection, autonomous actions |
-| 🧮 **QuoteClaw** | Automated quoting for sheet metal manufacturers |
-| 🔓 **Rhodium24** | Going FOSS — quotation and pricing engine for metalworking |
-
----
 
 ## 🎓 Teaching & Workshops
 
