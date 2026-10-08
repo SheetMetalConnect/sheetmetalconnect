@@ -22,12 +22,6 @@ Helping metalworking businesses digitize their shop floors for higher output and
 - 🖥️ **[mqtt-explorer-macos](https://github.com/SheetMetalConnect/mqtt-explorer-macos)** - MQTT Explorer, macOS build
 - 🎓 **[uns-cursus](https://github.com/SheetMetalConnect/uns-cursus)** - Full course material for Unified Namespace workshops (Dutch)
 
-### Archived
-
-- 🧭 **[metaal-kompas](https://github.com/SheetMetalConnect/metaal-kompas)** - Open-source knowledge base for digital transformation in metalworking (Dutch)
-- ✏️ **[gencad](https://github.com/SheetMetalConnect/gencad)** - Generative CAD tooling for manufacturing
-- 🔌 **[iot-umh-homelab](https://github.com/SheetMetalConnect/iot-umh-homelab)** - Learn industrial IoT with UMH architecture on real hardware
-
 ## Connect
 
 [![Sheet Metal Connect](https://img.shields.io/badge/-sheetmetalconnect.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sheetmetalconnect.com)
