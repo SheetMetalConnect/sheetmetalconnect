@@ -1,8 +1,6 @@
 # Sheet Metal Connect
 
-**Own your factory.**
-
-Every metalworking company is a software company now, whether it admits it or not. Sheet Metal Connect helps metalworking companies build their own digital factory: **Educate → Blueprint → Build → Hand off**. Your data, your code, your team's knowledge.
+**Manufacturing technologist** helping metalworking businesses digitize their shop floors for higher output and shorter throughput times.
 
 Luke van Enkhuizen. Based in Vienna, Austria, Dutch roots, building across Europe.
 
