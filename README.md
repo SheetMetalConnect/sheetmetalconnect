@@ -18,7 +18,7 @@ Helping metalworking businesses digitize their shop floors for higher output and
 - 🏭 **[eryxon-flow](https://github.com/SheetMetalConnect/eryxon-flow)** - Manufacturing Execution System for job shops and make-to-order manufacturers
 - 🧱 **[umh-core-stack](https://github.com/SheetMetalConnect/umh-core-stack)** - Batteries-included starter kit to deploy your Unified Namespace in one command
 - 🤖 **[oseon-mcp](https://github.com/SheetMetalConnect/oseon-mcp)** - AI-powered integration with TRUMPF Oseon — connecting shop floor scheduling to LLMs
-- 📡 **[uns-mqtt-simulator](https://github.com/SheetMetalConnect/uns-mqtt-simulator)** - MQTT simulator for sheet metal fabrication — 22 machines, 3 sites, ISA-95/PackML compliant
+- 📡 **[uns-mqtt-simulator](https://github.com/SheetMetalConnect/uns-mqtt-simulator)** - MQTT simulator for sheet metal fabrication — 22 machines, 3 sites, ISA-95 and PackML
 - 🖥️ **[mqtt-explorer-macos](https://github.com/SheetMetalConnect/mqtt-explorer-macos)** - MQTT Explorer, macOS build
 - 🎓 **[uns-cursus](https://github.com/SheetMetalConnect/uns-cursus)** - Full course material for Unified Namespace workshops (Dutch)
 
