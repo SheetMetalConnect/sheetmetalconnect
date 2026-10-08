@@ -1,8 +1,8 @@
 # Hi, I'm Luke 👋
 
-📍 **Vienna 🇦🇹 ↔ Netherlands 🇳🇱** | 🏭 **Manufacturing technologist** | 🔗 **[Sheet Metal Connect](https://www.sheetmetalconnect.com)**
+📍 **Vienna 🇦🇹 ↔ Netherlands 🇳🇱** | 🧰 **Consultant** | 🔗 **[Sheet Metal Connect](https://www.sheetmetalconnect.com)**
 
-Helping metalworking businesses digitize their shop floors for higher output and shorter throughput times. I run UNS workshops, build MES platforms, and wire factory machines to modern data stacks. If it speaks OPC-UA, MQTT, or Modbus — I've probably connected it to something.
+I help metalworking companies with digital transformation. I run UNS workshops, build MES platforms, and wire factory machines to modern data stacks. If it speaks OPC-UA, MQTT, or Modbus — I've probably connected it to something.
 
 ![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
 ![OPC-UA](https://img.shields.io/badge/-OPC--UA-0078D4?style=flat-square)
