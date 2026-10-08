@@ -1,24 +1,41 @@
-# Sheet Metal Connect
+# Hi, I'm Luke 👋
 
-**Manufacturing technologist** helping metalworking businesses digitize their shop floors for higher output and shorter throughput times.
+📍 **Vienna 🇦🇹 ↔ Netherlands 🇳🇱** | 🏭 **Manufacturing technologist** | 🔗 **[Sheet Metal Connect](https://www.sheetmetalconnect.com)**
 
-Luke van Enkhuizen. Based in Vienna, Austria, Dutch roots, building across Europe.
+Helping metalworking businesses digitize their shop floors for higher output and shorter throughput times. I run UNS workshops, build MES platforms, and wire factory machines to modern data stacks. If it speaks OPC-UA, MQTT, or Modbus — I've probably connected it to something.
 
-## Open repositories
+![MQTT](https://img.shields.io/badge/-MQTT-660066?style=flat-square&logo=mqtt&logoColor=white)
+![OPC-UA](https://img.shields.io/badge/-OPC--UA-0078D4?style=flat-square)
+![UMH Core](https://img.shields.io/badge/-UMH_Core-1E90FF?style=flat-square)
+![TimescaleDB](https://img.shields.io/badge/-TimescaleDB-FDB515?style=flat-square&logo=timescale&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
 
-| Repository | What it is |
-|---|---|
-| [eryxon-flow](https://github.com/SheetMetalConnect/eryxon-flow) | Open-source MES for job shops and make-to-order manufacturers |
-| [umh-core-stack](https://github.com/SheetMetalConnect/umh-core-stack) | UMH Core starter stack: run your own Unified Namespace with one command |
-| [uns-cursus](https://github.com/SheetMetalConnect/uns-cursus) | Course material for the UNS workshop (Dutch) |
-| [uns-mqtt-simulator](https://github.com/SheetMetalConnect/uns-mqtt-simulator) | MQTT simulator for a sheet metal shop: 22 machines, 3 sites, ISA-95, PackML |
-| [oseon-mcp](https://github.com/SheetMetalConnect/oseon-mcp) | Demo MCP server that connects TRUMPF Oseon to an AI assistant |
-| [mqtt-explorer-macos](https://github.com/SheetMetalConnect/mqtt-explorer-macos) | Native macOS build of MQTT Explorer |
+## Projects
 
-## Contact
+- 🏭 **[eryxon-flow](https://github.com/SheetMetalConnect/eryxon-flow)** - Manufacturing Execution System for job shops and make-to-order manufacturers
+- 🧱 **[umh-core-stack](https://github.com/SheetMetalConnect/umh-core-stack)** - Batteries-included starter kit to deploy your Unified Namespace in one command
+- 🤖 **[oseon-mcp](https://github.com/SheetMetalConnect/oseon-mcp)** - AI-powered integration with TRUMPF Oseon — connecting shop floor scheduling to LLMs
+- 📡 **[uns-mqtt-simulator](https://github.com/SheetMetalConnect/uns-mqtt-simulator)** - MQTT simulator for sheet metal fabrication — 22 machines, 3 sites, ISA-95/PackML compliant
+- 🖥️ **[mqtt-explorer-macos](https://github.com/SheetMetalConnect/mqtt-explorer-macos)** - MQTT Explorer, macOS build
+- 🎓 **[uns-cursus](https://github.com/SheetMetalConnect/uns-cursus)** - Full course material for Unified Namespace workshops (Dutch)
 
-- [sheetmetalconnect.com](https://www.sheetmetalconnect.com)
-- [LinkedIn](https://www.linkedin.com/in/lukevanenkhuizen/)
-- luke@sheetmetalconnect.com
+### Archived
 
-<sub>Archived: metaal-kompas, gencad, iot-umh-homelab</sub>
+- 🧭 **[metaal-kompas](https://github.com/SheetMetalConnect/metaal-kompas)** - Open-source knowledge base for digital transformation in metalworking (Dutch)
+- ✏️ **[gencad](https://github.com/SheetMetalConnect/gencad)** - Generative CAD tooling for manufacturing
+- 🔌 **[iot-umh-homelab](https://github.com/SheetMetalConnect/iot-umh-homelab)** - Learn industrial IoT with UMH architecture on real hardware
+
+## Connect
+
+[![Sheet Metal Connect](https://img.shields.io/badge/-sheetmetalconnect.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://www.sheetmetalconnect.com)
+[![vanenkhuizen.com](https://img.shields.io/badge/-vanenkhuizen.com-FF5722?style=flat-square&logo=ghost&logoColor=white)](https://vanenkhuizen.com)
+[![YouTube](https://img.shields.io/badge/-@vanenkhuizen-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@vanenkhuizen)
+[![LinkedIn](https://img.shields.io/badge/-Luke_van_Enkhuizen-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lukevanenkhuizen/)
+[![Email](https://img.shields.io/badge/-luke@sheetmetalconnect.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:luke@sheetmetalconnect.com)
+
+---
+
+<sub>Building the bridge between traditional metalworking craftsmanship and modern software — one factory at a time.</sub>
